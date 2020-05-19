@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "uj2t2N0hoo7VDvSQ91p3yGsASG1kvin+kJ/Bu9IKH2m14aonMyRhzSi31YML/vCqQDjOY+Bsf2DXiXhL0E9BCA==",
+  "success": true,
+  "projectFilePath": "D:\\Hidayet\\MyRepos\\ComManagers\\MultiComExample\\MultiComExample\\MultiComExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\basecommanagercore\\1.0.1\\basecommanagercore.1.0.1.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\checksummanagercore\\1.0.0\\checksummanagercore.1.0.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.4\\microsoft.extensions.fileproviders.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.4\\microsoft.extensions.hosting.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\packagemanagercore\\1.0.0\\packagemanagercore.1.0.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\4.7.0\\runtime.linux-arm.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\4.7.0\\runtime.linux-arm64.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\4.7.0\\runtime.linux-x64.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\runtime.native.system.io.ports\\4.7.0\\runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\4.7.0\\runtime.osx-x64.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\serialcommanagercore\\1.0.1\\serialcommanagercore.1.0.1.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\system.io.ports\\4.7.0\\system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\tcpcommanagercore\\1.0.0\\tcpcommanagercore.1.0.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\udpcommanagercore\\1.0.0\\udpcommanagercore.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
